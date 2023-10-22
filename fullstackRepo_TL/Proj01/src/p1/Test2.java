@@ -11,6 +11,9 @@ public class Test2 {
 		return 456;
 	}
 	public String name() {
-		return"Ram";
+	    String s1 = "Ram";
+	    String s2="Sita";
+		String name=s2+s1;
+		return name;
 	}
 }
