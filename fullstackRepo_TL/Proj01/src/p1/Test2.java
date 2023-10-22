@@ -7,4 +7,7 @@ public class Test2 {
 		return "Welcome to Java Programming.";
 
 	}
+	public int number() {
+		return 456;
+	}
 }
