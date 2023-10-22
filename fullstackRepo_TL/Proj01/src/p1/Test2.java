@@ -10,4 +10,7 @@ public class Test2 {
 	public int number() {
 		return 456;
 	}
+	public String name() {
+		return"Ram";
+	}
 }
